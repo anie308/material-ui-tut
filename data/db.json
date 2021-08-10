@@ -13,12 +13,6 @@
       "id": 3
     },
     {
-      "title": "Glowreey's birthday present",
-      "details": "Don't forget",
-      "category": "reminders",
-      "id": 4
-    },
-    {
       "title": "Full stack web development class",
       "details": "Teacher : Ukpono\nStudent: Aniebiet Obo\nTechnologies: React, Nodejs, Expressjs, Mongodb.",
       "category": "work",

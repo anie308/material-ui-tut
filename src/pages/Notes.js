@@ -44,7 +44,7 @@ export default function Notes() {
      >
 
      {notes.map(note => (
-       <div     key={note.id} >
+       <div   key={note.id} >
          <NoteCard  note={note}  handleDelete={handleDelete}/>
        </div>
      ))

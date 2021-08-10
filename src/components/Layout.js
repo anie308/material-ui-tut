@@ -85,7 +85,7 @@ function Layout( { children  }) {
                     Today is the {format(new Date(), 'do MMMM Y')}
                 </Typography>
                 <Typography>
-                    Mario
+                    Aniebiet 
                 </Typography>
                 <Avatar src='' className={classes.avatar}/>
             </ToolBar>
